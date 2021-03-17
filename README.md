@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Tan Do
+- 👀 I’m interested in BlockChain
+- 🌱 I’m currently learning about Flutter and Android Application
+- 💞️ I’m looking to collaborate on a food suggestion Android application
+- 📫 How to reach me donhattan9a10@gmail.com
